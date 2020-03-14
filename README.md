@@ -11,8 +11,8 @@
 Excercise - normal
 -------
 Doel: Welke getallen tussen x en y zijn zowel deelbaar door 3 als 5?
+Maak een `for-loop` aan en doorloop de getallen 7 tot en met 100 
 
-Maak een `for-loop` aan en doorloop de getallen 7 tot en met 100
 **FANCY:** laat de gebruiker zelf de begin- en eindwaarde bepalen. Ga na of het getal binnen de loop deelbaar is door 3. Indien dit het geval is, schrijf dan bitter op het scherm.
 Ga ook na of het getal deelbaar is door 5, zoja schrijf dan bal.
 Indien het niet deelbaar is door 3 of door 5, zet dan gewoon het huidige getal uit de loop op het scherm.
