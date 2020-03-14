@@ -1,5 +1,7 @@
 // let i = 7;
 // let untill = 100;
+// let valueOne = 3;
+// let valueTwo = 5;
 
 let i = parseInt(prompt('Startwaarde'));
 let untill = parseInt(prompt('Eindwaarde'));
