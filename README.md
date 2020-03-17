@@ -8,7 +8,7 @@
 - Solution ***solution***
 
 
-Excercise - solution
+Exercise - solution
 -------
 Doel: Welke getallen tussen x en y zijn zowel deelbaar door 3 als 5?
 Maak een `for-loop` aan en doorloop de getallen 7 tot en met 100 
