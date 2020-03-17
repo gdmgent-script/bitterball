@@ -8,7 +8,7 @@
 - Solution ***solution***
 
 
-Excercise - normal
+Exercise - normal
 -------
 Doel: Welke getallen tussen x en y zijn zowel deelbaar door 3 als 5?
 
